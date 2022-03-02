@@ -1,0 +1,32 @@
+number		digits	hundred	thousand
+one		3	9	10
+two		3	9	10
+three		5	9	10
+four		4	9	10
+five		4	9	10
+six		3	9	10
+seven		5	9	10
+eight		5	9	10
+nine		4	9	10		3240
+ten		3	1	10
+eleven		6	1	10
+twelve		6	1	10
+thirteen	8	1	10
+fourteen	8	1	10
+fifteen		7	1	10
+sixteen		7	1	10
+seventeen	9	1	10
+eighteen	8	1	10
+nineteen	8	1	10		700
+twenty		6	10	10
+thirty		6	10	10
+forty		5	10	10
+fifty		5	10	10
+sixty		5	10	10
+seventy		7	10	10
+eighty		6	10	10
+ninety		6	10	10		4600
+thousand	8	1	1		8
+and		3	99	9		2673
+hundred		7	900			6300
+x hundred	36      100			3600
